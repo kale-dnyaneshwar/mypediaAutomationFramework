@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="1" total="2" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="2082370" started-at="2021-05-12T11:43:46Z" finished-at="2021-05-12T12:18:28Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="2082370" started-at="2021-05-12T11:43:46Z" finished-at="2021-05-12T12:18:28Z">
+      <class name="tests.CreateAnAccountPageTest">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="beforeSuite" is-config="true" duration-ms="34" started-at="2021-05-12T11:43:46Z" finished-at="2021-05-12T11:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="beforeTest" is-config="true" duration-ms="1" started-at="2021-05-12T11:43:46Z" finished-at="2021-05-12T11:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="beforeClass" is-config="true" duration-ms="0" started-at="2021-05-12T11:43:46Z" finished-at="2021-05-12T11:43:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="setUpDriver(java.lang.String)[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="setUpDriver" is-config="true" duration-ms="4" started-at="2021-05-12T11:43:46Z" finished-at="2021-05-12T11:43:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpDriver -->
+        <test-method status="PASS" signature="createAnAccountButtonIsDisabledOrNotTest()[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="createAnAccountButtonIsDisabledOrNotTest" duration-ms="2082327" started-at="2021-05-12T11:43:46Z" finished-at="2021-05-12T12:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAnAccountButtonIsDisabledOrNotTest -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="afterMethod" is-config="true" duration-ms="0" started-at="2021-05-12T12:18:28Z" finished-at="2021-05-12T12:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="afterClass" is-config="true" duration-ms="0" started-at="2021-05-12T12:18:28Z" finished-at="2021-05-12T12:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="afterTest" is-config="true" duration-ms="1" started-at="2021-05-12T12:18:28Z" finished-at="2021-05-12T12:18:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:tests.CreateAnAccountPageTest@ba54932]" name="afterSuite" is-config="true" duration-ms="0" started-at="2021-05-12T12:18:29Z" finished-at="2021-05-12T12:18:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- tests.CreateAnAccountPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
